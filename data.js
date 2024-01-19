@@ -39,4 +39,8 @@ export default [
     code: '0000000100010101000100000',
     keywords: 'up arrow'
   }
+  {
+    code: '1010101010101010101010101',
+    keywords: 'board, chess'
+  }
 ]
